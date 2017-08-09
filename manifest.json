@@ -1,0 +1,36 @@
+{
+	"name": "EyeWear Fitroom",
+	"short_name": "EyeWear Fitroom",
+	"start_url": "/",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#fff",
+	"theme_color": "#673ab8",
+	"icons": [{
+		"src": "/assets/icons/android-chrome-192x192.png",
+		"type": "image/png",
+		"sizes": "192x192"
+	},
+	{
+		"src": "/assets/icons/android-chrome-512x512.png",
+		"type": "image/png",
+		"sizes": "512x512"
+	}],
+	"glasses":[
+		{
+			"src": "/assets/glasses/glass1.png",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/glasses/glass2.png",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/glasses/glass3.png",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/glasses/glass4.png",
+			"type": "image/png"
+		}]
+}
